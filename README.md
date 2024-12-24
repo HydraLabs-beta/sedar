@@ -1,1 +1,2 @@
-![image](https://github.com/user-attachments/assets/5f0fe67b-88bc-470d-b3f2-5d8fe94dbcfe)
+<h1 align="center"><img src="https://raw.githubusercontent.com/HydraLabs-beta/sedar/main/sedarbanner.png
+" alt="SedarBanner"></img>Say Good bye to abusers</h>
